@@ -1,7 +1,7 @@
 
   const orders = [500, 30, 99, 15, 223];
 
-  // 'Good Loop Code 🌒'
+  // 'Bad Loop Code 🌒'
   let total = 0;
   let withTax = [];
   let highValue = [];
